@@ -11,7 +11,14 @@ window.document.getElementById('data').innerHTML = 'Sending message to Electron.
 
     window.setTimeout(() => {
       window.document.getElementById('data').innerHTML = 'Sending message to Electron...';
-      event.sender.send('message-from-ui', 'Hello Electron !');
+      if (event.sender) {
+        try {
+          event.sender.send('message-from-ui', 'Hello Electron !');
+        } catch(e) {
+          // Electron base seems to be gone.
+          // Is that even possible ?
+        };
+      }
     }, 1000);
   });
 
