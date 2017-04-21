@@ -1,0 +1,27 @@
+{
+  "name": "electronic-kit-start",
+  "version": "0.0.14",
+  "description": "Electronic kit start for devlopment on electron",
+  "main": "index.js",
+  "bin": {
+    "electronic-kit-start": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "id bouche mohammed <idbouche2@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "Electron",
+    "Bower",
+    "Gulp",
+    "Sass",
+    "Starter",
+    "Kit"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "ncp": "^2.0.0",
+    "ora": "^1.2.0"
+  }
+}

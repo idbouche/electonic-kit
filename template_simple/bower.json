@@ -1,0 +1,31 @@
+{
+  "name": "electron-professional-grade-starter-kit",
+  "description": "This project aims to create an electron professional grade starter kit inspired from the folder structure and tools that can be found when using tools like ionic for mobile app development. It relies on npm and bower for dependencies management and gulp for sass compilation.",
+  "main": "./app/www/js/main.js",
+  "authors": [
+    "Sami Radi <sami.radi@virtuoworks.com> (http://www.virtuoworks.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Electron",
+    "Bower",
+    "Gulp",
+    "Sass",
+    "Starter",
+    "Kit"
+  ],
+  "private": true,
+  "homepage": "https://github.com/VirtuoWorks/electron-professional-grade-starter-kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./app/www/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^5.0.0",
+    "photon": "^0.1.2-alpha"
+  }
+}
