@@ -1,4 +1,4 @@
-# Electronic Kit Start
+# Electronic Kit Start  ---Work only on linux :) ☺️ Other platform coming soon ---
 
 Create electron apps with no build configuration.
 
