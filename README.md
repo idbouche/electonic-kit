@@ -73,7 +73,18 @@ my-app/
 No configuration or complicated folder structures, just the files you need to build your app.<br>
 Once the installation is done, you can run some commands inside the project folder:
 
-### `npm start`
+ `npm start`
+
+## Exemple template:
+    --simple
+    --react
+    --angular2
+    --vuejs
+
+## Exemple command package:  
+      electronic-kit-start --platform-win     // Build for platform-win
+      electronic-kit-start --platform-linux   // build for platform-linux
+      electronic-kit-start --platform-mac     // build for platform-mac
 
 
 You can also use module bundlers like [webpack](http://webpack.github.io) and [Browserify](http://browserify.org/) directly.<br>

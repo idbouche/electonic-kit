@@ -1,0 +1,5 @@
+{
+  "name"    : "demoangular2",
+  "version" : "0.0.1",
+  "main"    : "./electron/main.js"
+}

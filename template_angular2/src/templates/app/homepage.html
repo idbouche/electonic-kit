@@ -1,0 +1,8 @@
+<div *ngIf="!has_ipc">
+  <p>Home Page (Web Version)</p>
+  <button (click)="do_alert()">Click to Alert</button>
+</div>
+<div *ngIf="has_ipc">
+  <p>Home Page (Electron Version)</p>
+  <button (click)="do_ping()">Click to Ping Node</button>
+</div>
