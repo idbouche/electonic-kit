@@ -76,12 +76,8 @@ gulp.task('ts-electron', () => {
 });
 
 gulp.task('templates', () => {
-	var pug  = require('gulp-pug');
-	return gulp.src(['./src/templates/**/*.pug'])
-		.pipe(pug({
-			pretty: true
-		}))
-		.on('error', console.log)
+
+	return gulp.src(['./src/templates/**/*.html'])
 	.pipe(gulp.dest('./build/'))
 });
 
