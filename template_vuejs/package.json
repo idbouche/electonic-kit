@@ -30,7 +30,7 @@
     "babelify": "^6.1.2",
     "browserify": "^10.2.4",
     "del": "^1.2.0",
-    "electron": "^1.4.15",
+    "electron": "^1.6.2",
     "electron-packager": "^8.5.2",
     "electron-prebuilt": "^1.4.13",
     "fs": "0.0.2",

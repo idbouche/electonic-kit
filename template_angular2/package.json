@@ -40,6 +40,7 @@
   "devDependencies": {
     "electron-packager": "^7.3.0",
     "electron-prebuilt": "^1.2.7",
+    "electron": "^1.6.2",
     "gulp": "^3.9.1",
     "gulp-if": "^2.0.1",
     "gulp-postcss": "^6.1.1",

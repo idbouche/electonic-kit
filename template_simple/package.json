@@ -27,7 +27,7 @@
   "homepage": "https://github.com/VirtuoWorks/electron-professional-grade-starter-kit#readme",
   "dependencies": {
     "bower": "^1.8.0",
-    "electron": "^1.4.15",
+    "electron": "^1.6.2",
     "electron-packager": "^8.5.2",
     "electron-prebuilt": "^1.4.13",
     "gulp": "^3.9.1",
