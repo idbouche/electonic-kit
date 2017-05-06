@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 /node_modules/
 .DS_Store
 .idea
+=======
+node_modules
+node_modules/*
+app/www/lib
+app/www/lib/*
+>>>>>>> a32bdc330147720ae85abd6d03f1c75888c26a8b
