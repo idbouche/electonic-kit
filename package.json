@@ -1,6 +1,6 @@
 {
   "name": "electronic-kit-start",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Electronic kit start for devlopment on electron",
   "main": "index.js",
   "repository": {
