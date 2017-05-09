@@ -1,6 +1,6 @@
 {
   "name": "electronic-kit-start",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Electronic kit start for devlopment on electron",
   "main": "index.js",
   "repository": {
@@ -28,6 +28,9 @@
     "ncp": "^2.0.0",
     "node-find-folder": "^0.1.29",
     "ora": "^1.2.0"
-
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
   }
 }

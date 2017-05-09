@@ -1,6 +1,5 @@
-
 #!/usr/bin/env node
 
-'use strict'
+'use stric'
 
-require('./lib/cli.js');
+require('./lib/cli.js')
