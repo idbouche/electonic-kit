@@ -1,4 +1,4 @@
-# Electronic Kit Start  ---Work only on linux :) ☺️ Other platform coming soon ---
+# Electronic Kit Start  ☺️ 
 
 Create electron apps with no build configuration.
 
@@ -73,7 +73,6 @@ my-app/
 No configuration or complicated folder structures, just the files you need to build your app.<br>
 Once the installation is done, you can run some commands inside the project folder:
 
-<<<<<<< HEAD
  `npm start`
 
 ## Exemple template:
@@ -86,9 +85,5 @@ Once the installation is done, you can run some commands inside the project fold
       electronic-kit-start --platform-win     // Build for platform-win
       electronic-kit-start --platform-linux   // build for platform-linux
       electronic-kit-start --platform-mac     // build for platform-mac
-=======
-### `npm start`
->>>>>>> a32bdc330147720ae85abd6d03f1c75888c26a8b
-
 
 You can also use module bundlers like [webpack](http://webpack.github.io) and [Browserify](http://browserify.org/) directly.<br>
