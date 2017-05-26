@@ -4,6 +4,10 @@ Create electron apps with no build configuration.
 
 Create electron App works on macOS, Windows, and Linux.<br>
 
+[![Version](https://img.shields.io/npm/v/electronic-kit-start.svg)](https://www.npmjs.com/package/electronic-kit-start)
+[![Downloads](https://img.shields.io/npm/dt/electronic-kit-start.svg)](https://www.npmjs.com/package/electronic-kit-start)
+[![license](https://img.shields.io/npm/l/electronic-kit-start.svg)](https://www.npmjs.com/package/electronic-kit-start)
+
 ## Quick Overview
 
 ```sh
